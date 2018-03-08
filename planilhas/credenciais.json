@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "estudos-planilha",
+  "private_key_id": "f8ebf2e23de33329b527962deff7e5ab101e5de7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSgXwkbfRdBkSj\nHtzaaQgmZcpjZHeipQ5lrQnTqQYeHwWn0R4qDQlpy2rIFUspy7+xdSyqJ6ovfvXf\nQp8DqmHSJRi3/Y9cbBvVwOkGgUAa7RXZqu1bcEB4MGuUJ9mhv5aZl40iwZ3rlUwx\nsWgVfg7vohTwb6NK0D9WeDZrjO0DtdEhLgzFaYAb/HlWLN+PzVfP92YCtcz0vR7i\nyn6DsevUbZvZhJmQtCcLIiGILKU98o5kvuIz5u0Hc/DVJKZTFjWA9T2HhbqNPvHv\ntEP2fPKqezaaA3r1S5g3vh/SBp/n1jYHZ+fPSyhmN1SzevhWr9xrBUECtNrcb8nU\nE2igZ/kpAgMBAAECggEANgInxjb5x7Y4fPuJoXXqM+PQ4eBge3fKslaLm2UV3zuJ\nWW2jRhmzLRQWMQCZmL8gTxjnnT5xAR+bWK1AnBGmaGLBLU+ebRGFsLl+b/9QYbgr\nb33VySyLNesCZvA0e7XqnzyNZvnzGQLkmilQsZb2oQ/ePHQAGs1EOty75asyEk2n\nm47xxyBHgp6V053kb/0Kk1vk+4aHDn/MKusHKPwbI+hl8xp4yisP30vUXpsf622H\n6062IXDL8e4jKEMBNLIET/DfU75JOibApcKIXYLIZsm4DQ52Ec3mZWARyxT996Cn\nfDvPm6W8HlRej0bL+cKnxFzkdtPG3vuLbuSXg+vNGwKBgQD+crQgWw6CrmkLHPv4\n9R7iJp3gV0XpKgSl2jEi0b2DcoLgag/tUrZSSSvRxlh8VfzyWhMqbSTLhQ6WI3YK\nhHBatmvqLczZvLcGM/U6idIlFW4UHqLf21Ae0V0u/P/u9YyNIGUkAtdDJbl/WYjJ\n50uNAe4ygv5NK9bF8H8LqxVCcwKBgQDTyitvCXCrEARgsWV03jZLsgk2gjz576iX\nMtSBhXaeBREjqGQCv4r9Fzn3/m6IZ2C4LBhdNVxx9lFFbxff3BaOqM9ymRJNakXY\n+9FV1n5c3PrST41Zn15dZ5bu+O4KjwbbyyMTGTRAS9GvwEhhmQPOcIxA3BRIa4IW\ncvumjjcC8wKBgQDuSv3mT2CHgk9d2QchYG5L3V59ez493tv7dxwNP9/7+oIXKT1B\nRPT6mwwuqVK1HtKFJVZNpWmQMEw4z3z83ItcaPsnlT0DrXi6lm5TJD9p+2fb79UZ\nUIr4UZqzJr2JTO0UPgJ6dy6h8/KFEZTJgZN/uw8YvxTpsOSy+0f/5XlDgQKBgQC3\nrmSDFbXgtrCFR/WNKVf/yHYTD1thDUizcYM6ngzlOdHGkjnC5Grf3DALdGBa7wXE\nVYH//NKjiBSuWo5jOZdavO/GHRnxiFTxvlyszK2lToY+tn4KF50Y90nBEqYpBCjX\noVNXMgnOJbPDcMmV08aoWZZafkUdFhip7alxp2/wnwKBgQDjDL/IiVkDfGSHhRCz\nm1c3Rx6PnY040QTfP3HBcWPNzefvPynJwYUy4XrqQfzvAtM/JQ8THQiNaWySdRVg\nI0cGG13CRjQ3156loOrGp8yk+l3fR6I7cpF9Hm7ls5bida+QYkywuBzHdpK/DBuF\nZLMJkh/CzJbTr5y0G/n9bDHM6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "estudosplanilhasteste@estudos-planilha.iam.gserviceaccount.com",
+  "client_id": "108101812029733554040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/estudosplanilhasteste%40estudos-planilha.iam.gserviceaccount.com"
+}
